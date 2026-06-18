@@ -1,0 +1,6 @@
+baseURL = "https://vinayakahk.com/"
+title = "vinayakahk"
+theme = "hugo-bearblog"
+
+[params]
+  description = "vinayakahk's blog"
